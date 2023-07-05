@@ -1,1 +1,2 @@
+crontab -e実行、cron設定ファイル
 0 3 * * * cd /path && /usr/bin/python3 /path/main.py
